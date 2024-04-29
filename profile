@@ -2,8 +2,8 @@
   "profile": [
     {
       "profileID": 1,
-      "name": "U Lay Gyi",
-      "profileLink": "https://yeminthandev.files.wordpress.com/2024/04/animation-1714419224291.gif",
+      "name": "Viber",
+      "profileLink": "https://yeminthandev.files.wordpress.com/2024/04/animation-1714419875218.gif",
       "address": "Hinthada",
       "phone": 959972381187,
       "website": "https://www.thingyanahlann.com"
