@@ -1,0 +1,26 @@
+{
+  "title": "Social Link",
+  "links": [
+    {
+      "message": "Viber Test Message1",
+      "sTitle": "Viber",
+      "url": "https://msng.link/o?95",
+      "SocialId": "2344",
+      "logo": "https://yeminthandev.wordpress.com/wp-content/uploads/2024/05/download-1.png"
+    },
+    {
+      "message": "Facebook Test Message",
+      "sTitle": "Facebook",
+      "url": "https://www.facebook.com/thingyanahlann",
+      "SocialId": "100239275974524",
+      "logo": "https://yeminthandev.wordpress.com/wp-content/uploads/2024/05/download-1.png"
+    },
+    {
+      "message": "WhatApp Test Message",
+      "sTitle": "WhatsApp",
+      "url": "https://www.facebook.com/",
+      "SocialId": "100239275974524",
+     "logo": "https://yeminthandev.wordpress.com/wp-content/uploads/2024/05/download-1.png"
+    } 
+  ]
+}
