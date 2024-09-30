@@ -1,20 +1,21 @@
+
 {
   "backgroundImage": "https://i.pinimg.com/564x/15/ac/fb/15acfba360c0cbd916fdc2163aec9c7d.jpg",
   "buttons": [
     {
-      "iconUrl": "https://i.pinimg.com/564x/72/3e/9f/723e9f5db79d3d0eeb3b87aac9d74213.jpg",
-      "text": "Open Google",
-      "url": "http://www.google.com"
+      "text": "Button 1",
+      "icon": "https://i.pinimg.com/564x/72/3e/9f/723e9f5db79d3d0eeb3b87aac9d74213.jpg",
+      "url": "https://google.com"
     },
     {
-      "iconUrl": "https://i.pinimg.com/236x/91/2d/c8/912dc8829d7eb3ebfea0175c7a52bc9e.jpg",
-      "text": "Open Flutter",
-      "url": "https://flutter.dev"
+      "text": "Button 2",
+      "icon": "https://i.pinimg.com/564x/72/3e/9f/723e9f5db79d3d0eeb3b87aac9d74213.jpg",
+      "url": "https://facebook.com"
     }
   ],
-"playNow": {
+  "playNow": {
     "text": "Play Now",
-    "icon": "https://example.com/play_icon.png",
+    "icon": "https://i.pinimg.com/564x/72/3e/9f/723e9f5db79d3d0eeb3b87aac9d74213.jpg",
     "url": "https://google.com"
   }
 }
