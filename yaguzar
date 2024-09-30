@@ -11,5 +11,10 @@
       "text": "Open Flutter",
       "url": "https://flutter.dev"
     }
-  ]
+  ],
+"playNow": {
+    "text": "Play Now",
+    "icon": "https://example.com/play_icon.png",
+    "url": "https://www.example.com/play"
+  }
 }
