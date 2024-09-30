@@ -1,0 +1,13 @@
+{
+  "backgroundImage": "https://example.com/background.jpg",
+  "buttons": [
+    {
+      "iconUrl": "https://example.com/icon1.png",
+      "text": "Button 1"
+    },
+    {
+      "iconUrl": "https://example.com/icon2.png",
+      "text": "Button 2"
+    }
+  ]
+}
