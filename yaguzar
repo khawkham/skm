@@ -1,19 +1,14 @@
 {
   "backgroundImage": "https://ai5093.wordpress.com/wp-content/uploads/2024/10/img_20241003_204025_7576765280910158407567.jpg",
-  "centerBanners": [
-    {
-      "imageUrl": "https://ai5093.wordpress.com/wp-content/uploads/2024/10/wp-1727963457806.gif",
-      "linkUrl": "https://google.com"
-    },
+  "webViewBanner": {
+    "imageUrl": "https://ai5093.wordpress.com/wp-content/uploads/2024/10/wp-1727963457818.gif",
+    "webViewUrl": "https://google.com"
+  },
+  "banners": [
     {
       "imageUrl": "https://ai5093.wordpress.com/wp-content/uploads/2024/10/wp-1727963457806.gif",
       "linkUrl": "https://google.com"
     }
-    
   ],
-  "bottomBanner": {
-    "imageUrl": "https://ai5093.wordpress.com/wp-content/uploads/2024/10/wp-1727963457818.gif",
-    "linkUrl": "https://google.com"
-  },
-  "scrollingText": "Welcome to our Fluttersgsfgfshshdsjdjdsjdg app! Enjoy the experience."
+  "scrollingText": "Welcome to our Flutter app! Enjoy the experience."
 }
