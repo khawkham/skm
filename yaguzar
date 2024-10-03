@@ -1,20 +1,19 @@
 {
-  "backgroundImage": "https://i.pinimg.com/564x/15/ac/fb/15acfba360c0cbd916fdc2163aec9c7d.jpg",
-  "buttons": [
+  "backgroundImage": "https://ai5093.wordpress.com/wp-content/uploads/2024/10/img_20241003_204025_7576765280910158407567.jpg",
+  "centerBanners": [
     {
-      "text": "Button 1",
-      "icon": "https://i.pinimg.com/564x/72/3e/9f/723e9f5db79d3d0eeb3b87aac9d74213.jpg",
-      "url": "https://google.com"
+      "imageUrl": "https://ai5093.wordpress.com/wp-content/uploads/2024/10/wp-1727963457806.gif",
+      "linkUrl": "https://google.com"
     },
     {
-      "text": "Button 2",
-      "icon": "https://i.pinimg.com/564x/72/3e/9f/723e9f5db79d3d0eeb3b87aac9d74213.jpg",
-      "url": "https://facebook.com"
+      "imageUrl": "https://ai5093.wordpress.com/wp-content/uploads/2024/10/wp-1727963457806.gif",
+      "linkUrl": "https://google.com"
     }
+    
   ],
-  "playNow": {
-    "text": "Play Now",
-    "icon": "https://i.pinimg.com/564x/72/3e/9f/723e9f5db79d3d0eeb3b87aac9d74213.jpg",
-    "url": "https://google.com"
-  }
+  "bottomBanner": {
+    "imageUrl": "https://ai5093.wordpress.com/wp-content/uploads/2024/10/wp-1727963457818.gif",
+    "linkUrl": "https://google.com"
+  },
+  "scrollingText": "Welcome to our Flutter app! Enjoy the experience."
 }
